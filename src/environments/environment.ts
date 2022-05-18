@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'https://tfg-app-asmp6.ondigitalocean.app/api'
+  apiUrl: 'https://tfg-app-asmp6.ondigitalocean.app/backend/api'
 };
 
 /*
