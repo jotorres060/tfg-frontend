@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://localhost/tfg-app/public/api'
+  apiUrl: 'https://tfg-app-asmp6.ondigitalocean.app/api'
 };
